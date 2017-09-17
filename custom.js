@@ -30,3 +30,4 @@ IPython.keyboard_manager.command_shortcuts.add_shortcut('u', {
 );
          });
      });
+
